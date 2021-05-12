@@ -25,11 +25,11 @@ Link para vídeo com explicação: https://youtu.be/mZHcTZtnoK0
 ## Instalando o GlassFish 4.1
 1 - No Netbeans, acesse a aba *Services* e sobre *server* clique com botão direito e adicione novo server
 
-:::image type="content" source="images/glassfish-services.png" alt-text="services":::
+<img src="images/glassfish-services.png">
 
 2 - O próximo passo é escolher onde será feito o download do glassfish. Lembre de escolher a versão 4.1, independente da 5.1 ser mais nova.
 
-:::image type="content" source="images/glassfish-download.png" alt-text="download glassfish":::
+<img src="images/glassfish-download.png">
 
 ## Configuração do JDK 8
 1 - Após realizar o download da versão do JDK 8, configure o NetBeans para utilizar essa versão através do *netbeans.conf*. Abaixo segue um exemplo de como mudar o valor do jdk utilizado.
@@ -37,7 +37,7 @@ Link para vídeo com explicação: https://youtu.be/mZHcTZtnoK0
 > [!IMPORTANT]
 > Esse processo dever ser feito com o Netbeans fechado
 
-:::image type="content" source="images/netbeans-conf.png" alt-text="Escolha do JDK para o Netbeans":::
+<img src="images/netbeans-conf.png">
 
 
 ### Solução para bugs comuns
@@ -49,5 +49,4 @@ Link para vídeo com explicação: https://youtu.be/mZHcTZtnoK0
 
 4 - Se mesmo assim ocorrer um erro onde o app client não encontra o glassfish, passe o caminho do glassfish manualmente no pom.xml.
 
-:::image type="content" source="images/pom-xml.png" alt-text="Passando path do glassfish":::
-
+<img src="images/pom-xml.png">
