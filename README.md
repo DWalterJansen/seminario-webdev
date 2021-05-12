@@ -9,12 +9,14 @@
 2. [Configurando o projeto](#configurando-o-projeto)
 
 
-
-
 # Sobre
 Esse repositório contém os arquivos usados durante a apresentação do seminário sobre JAX-WS pela equipe Anne Caroline P. Santos, David Jansen e Eike Stálei.
 O seminário é parte das atividades requeridas na disciplina de Desenvolvimento Web, ministrada pelo Professor Luis Guisso, e ofertada pelo Instituto Federal do Norte de Minas Ferais (IFNMG) na modalidade ANP.
 Os arquivos aqui contidos foram retirados do tutorial oficial da Oracle que não se encontra mais online. Sendo assim, anexamos um modelo offline do tutorial em nosso repositório, referente ao tema JAX-WS. Ressaltamos que nenhum conteúdo da documentação foi alterado.
+
+Localização específica do projeto para nosso tema: [projeto do seminário](https://github.com/DWalterJansen/seminario-webdev/tree/main/jakartaee-tutorial-examples-master/jaxws)
+
+Link para vídeo com explicação: https://youtu.be/mZHcTZtnoK0
 
 # Configurando o projeto
     - Para esse projeto é importante ter o GlassFish na versão 4.1 configuração no seu netbeans.
